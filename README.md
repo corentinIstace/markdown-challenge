@@ -6,17 +6,18 @@
 
 ### Ma curiosité n'a comme limite, que le temps que je lui accorde.
 
-| Birthday           | 26/11/1997        |
-| Favorite color     | GREEN             |
-| favorite food      | BBQ               |
+| Birthday           | 26/11/1997                                                            |
+|--------------------|-----------------------------------------------------------------------|
+| Favorite color     | GREEN                                                                 |
+| favorite food      | BBQ                                                                   |
 | pineapple on pyzza | <ul><li>[ ] YES</li><li>[ ] NO</li><li>[X] MAYBE</li></ul>:zany_face: |
 
 ### Hobbies
 
 1. sports
-..* Mountain bike
-..* Football
-..* Running
+    - Mountain bike
+    - Football
+    - Running
 2. films
 3. motor sports
 
@@ -39,4 +40,4 @@ keep your head on the train :sweat_smile:
 
 
 
-<<[previous(https://github.com/Baysaaaa/markdown-challenge)]|| Istace Corentin || [next(https://github.com/Corentine4/Fakecv)]>>
+<<[previous](https://github.com/Baysaaaa/markdown-challenge)|| Istace Corentin || [next](https://github.com/Corentine4/Fakecv)>>
